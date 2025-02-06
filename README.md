@@ -27,11 +27,6 @@ Desain ini lebih ditujukan untuk profesional yang terlibat dalam cybersecurity d
 Task Manager (CPU) Windows 11
 ![Screenshot 2025-02-06 095850](https://github.com/user-attachments/assets/4baf5e25-1556-40bb-bf07-9036ac29a8ea)
 Task Manager (Memory) Windows 11
-![Screenshot 2025-02-06 095902](https://github.com/user-attachments/assets/41fb5817-d9df-4b0d-9e08-407f80b5d79f)
-Task Manager (
-
-
-
 
 ![Screenshot 2025-02-03 182555](https://github.com/user-attachments/assets/5c4f5f94-adfe-47ce-92a4-ef7f6a58993b)
 htop(Kali Linux)
