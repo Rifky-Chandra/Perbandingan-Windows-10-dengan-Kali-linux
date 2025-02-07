@@ -22,52 +22,80 @@ Desain ini lebih ditujukan untuk profesional yang terlibat dalam cybersecurity d
 
 # 📌 Perbedaan Kali Linux vs Windows 11 (Berdasarkan Tampilan Menu)
 
-![Screenshot 2025-02-06 095659](https://github.com/user-attachments/assets/1a5eb92e-91d1-4df7-8f4b-0952ab22c1e0) Tampilan Menu (Windows 11)
-![Screenshot 2025-02-06 100058](https://github.com/user-attachments/assets/041e7db8-9b67-4a4b-ad2e-d947c2b61cdb) Tampilan Menu (Kali Linux)
+![Screenshot 2025-02-06 100058](https://github.com/user-attachments/assets/f8efd2f8-2d0b-4c61-9cb8-d9de5aea0677) Tampilan Menu(Kali Linux)
 
+![Screenshot 2025-02-06 095659](https://github.com/user-attachments/assets/b684b4df-5006-4b60-83cc-804356786929) Tampilan Menu (Windows 11)
 
-## 1️⃣ Perbedaan Sistem Operasi
-- **Windows 11 (Tampilan Menu 1)** → Sistem operasi buatan Microsoft, digunakan untuk produktivitas dan penggunaan umum.
-- **Kali Linux (Tampilan Menu 2)** → Distribusi Linux berbasis Debian, digunakan untuk keamanan siber dan penetration testing.
+## 🐧 Kali Linux
 
-## 2️⃣ Perbedaan Tampilan Antarmuka
+### 1️⃣ Sistem Operasi
+- Kali Linux adalah distribusi berbasis **Debian** yang dirancang untuk **penetration testing, keamanan siber, dan forensik digital**.
+- Banyak digunakan oleh **ethical hacker, profesional keamanan, dan peneliti keamanan**.
 
-| Aspek | Kali Linux | Windows 11 |
+### 2️⃣ Tampilan Menu
+- Memiliki **struktur hierarkis** dengan kategori teknis seperti:
+  - **Information Gathering**
+  - **Vulnerability Analysis**
+  - **Exploitation Tools**
+  - **Forensics Tools**, dll.
+- **Tema dominan gelap (dark mode)** dengan tampilan minimalis.
+- Kotak **pencarian aplikasi** berada di bagian atas menu.
 
-| **Menu Utama** | Dropdown dengan kategori bertingkat. | Grid dengan ikon besar dan tampilan modern. |
-| **Tema Warna** | Dominan gelap (dark mode). | Warna transparan dengan nuansa modern. |
-| **Pencarian Aplikasi** | Kotak pencarian kecil di atas menu. | Kotak pencarian besar dan lebih terintegrasi. |
-| **Struktur Aplikasi** | Dikategorikan ke dalam kelompok teknis (*Information Gathering, Exploitation Tools, dll*). | Dikelompokkan dalam *Pinned* dan *Recommended*. |
+### 3️⃣ Jenis Aplikasi
+- Berisi aplikasi yang berfokus pada:
+  - **Terminal Emulator** untuk eksekusi perintah Linux.
+  - **Exploit Database & VulnHub** untuk latihan eksploitasi.
+  - **Kali Docs & Kali Bugs** sebagai dokumentasi dan pelaporan bug.
 
-## 3️⃣ Perbedaan Jenis Aplikasi
+### 4️⃣ Fungsi dan Penggunaan
+- Digunakan untuk:
+  - **Penetration testing** dan eksploitasi keamanan.
+  - **Analisis malware dan forensik digital**.
+  - **Keamanan jaringan dan eksploitasi aplikasi web**.
+- Memerlukan **keahlian teknis lebih dalam** untuk digunakan secara efektif.
 
-| Aspek | Kali Linux | Windows 11 |
+### 5️⃣ Aksesibilitas dan Kustomisasi
+- **Navigasi berbasis kategori**, mengelompokkan alat-alat keamanan.
+- **Open-source**, memungkinkan pengguna menyesuaikan sistem sesuai kebutuhan.
+- **Dukungan software terbatas** hanya untuk aplikasi keamanan dan tool open-source.
+- **Tingkat kustomisasi sangat tinggi**, bisa diubah sepenuhnya sesuai keinginan pengguna teknis.
 
-| **Aplikasi Utama** | Terminal Emulator, Exploit Database, VulnHub, Kali Docs. | Word, Excel, PowerPoint, Edge, YouTube. |
-| **Kategori Aplikasi** | Keamanan siber, penetration testing, forensik digital. | Produktivitas, hiburan, aplikasi kantoran. |
-| **Fokus Penggunaan** | Ethical hacking, eksploitasi keamanan, analisis malware. | Pekerjaan sehari-hari, multimedia, gaming. |
+## 🖥 Windows 11
 
-## 4️⃣ Perbedaan Fungsi dan Penggunaan
+### 1️⃣ Sistem Operasi
+- Windows 11 adalah sistem operasi buatan **Microsoft** yang ditujukan untuk **penggunaan sehari-hari, produktivitas, dan hiburan**.
+- Digunakan oleh **pengguna umum, pelajar, pekerja kantoran, dan gamer**.
 
-| Aspek | Kali Linux | Windows 11 |
+### 2️⃣ Tampilan Menu
+- Tampilan lebih **modern dan user-friendly**, dengan ikon besar.
+- **Dikelompokkan menjadi dua bagian utama**:
+  - **Pinned Apps** → Aplikasi yang sering digunakan.
+  - **Recommended Apps & Files** → Dokumen dan aplikasi yang baru diakses.
+- **Kotak pencarian lebih besar**, terintegrasi dengan sistem.
 
-| **Target Pengguna** | Profesional keamanan siber, ethical hacker, peneliti keamanan. | Pengguna umum, pekerja kantoran, pelajar. |
-| **Tujuan Penggunaan** | Penetration testing, analisis forensik, eksploitasi keamanan. | Pengolahan dokumen, hiburan, pekerjaan kantor. |
-| **Kemudahan Penggunaan** | Lebih teknis, memerlukan keahlian khusus. | Mudah digunakan untuk semua orang. |
+### 3️⃣ Jenis Aplikasi
+- Berisi aplikasi umum untuk pekerjaan dan hiburan seperti:
+  - **Microsoft Word, Excel, PowerPoint** untuk produktivitas.
+  - **YouTube, Edge, Opera GX** untuk hiburan dan browsing.
+  - **Visual Studio Code** untuk pengembangan perangkat lunak.
 
-## 5️⃣ Perbedaan Aksesibilitas dan Kustomisasi
+### 4️⃣ Fungsi dan Penggunaan
+- Digunakan untuk:
+  - **Pekerjaan sehari-hari**, seperti pembuatan dokumen dan presentasi.
+  - **Hiburan**, seperti menonton video dan bermain game.
+  - **Produktivitas**, dengan berbagai aplikasi kantoran dan komunikasi.
+- **Mudah digunakan**, cocok untuk semua kalangan.
 
-| Aspek | Kali Linux | Windows 11 |
-
-| **Navigasi** | Hierarki alat keamanan yang kompleks. | Mudah dengan ikon besar dan kategori jelas. |
-| **Dukungan Software** | Fokus pada open-source dan tool keamanan. | Mendukung banyak aplikasi dari Microsoft dan pihak ketiga. |
-| **Tingkat Kustomisasi** | Sangat tinggi (bisa diubah sesuai kebutuhan pengguna teknis). | Terbatas dibanding Linux, tetapi tetap dapat dikustomisasi. |
+### 5️⃣ Aksesibilitas dan Kustomisasi
+- **Navigasi lebih intuitif**, dengan ikon besar dan pencarian cepat.
+- **Dukungan software luas**, termasuk aplikasi Microsoft dan pihak ketiga.
+- **Tingkat kustomisasi terbatas**, hanya bisa mengubah tampilan tema dan beberapa fitur.
 
 ## 🎯 Kesimpulan Utama
-1. Kali Linux lebih berorientasi pada **keamanan siber**, sementara Windows 11 lebih untuk **penggunaan sehari-hari**.
-2. Tampilan Kali Linux **lebih teknis**, sedangkan Windows 11 **lebih user-friendly**.
-3. Kali Linux memiliki aplikasi **penetration testing dan forensik**, sedangkan Windows 11 memiliki aplikasi **produktif dan multimedia**.
-4. Windows 11 **lebih mudah digunakan**, sementara Kali Linux **memerlukan pemahaman teknis lebih dalam**.
+- **Kali Linux** lebih berorientasi pada **keamanan siber**, sedangkan **Windows 11** lebih untuk **penggunaan sehari-hari**.
+- **Tampilan menu Kali Linux** lebih teknis dan kompleks, sementara **Windows 11 lebih simpel dan user-friendly**.
+- **Kali Linux memiliki aplikasi penetration testing**, sedangkan **Windows 11 lebih fokus pada produktivitas dan hiburan**.
+- **Windows 11 lebih mudah digunakan**, sementara **Kali Linux memerlukan pemahaman teknis lebih dalam**.
 
 # 📊 Analisis Perbandingan Monitoring Sistem: htop (Kali Linux) vs Task Manager (Windows 11)
 
