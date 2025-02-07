@@ -26,11 +26,9 @@ Desain ini lebih ditujukan untuk profesional yang terlibat dalam cybersecurity d
 ![Screenshot 2025-02-06 100058](https://github.com/user-attachments/assets/041e7db8-9b67-4a4b-ad2e-d947c2b61cdb) Tampilan Menu (Kali Linux)
 
 
-
-
 ## 1️⃣ Perbedaan Sistem Operasi
-- **Kali Linux (Tampilan Menu 1)** → Distribusi Linux berbasis Debian, digunakan untuk keamanan siber dan penetration testing.
-- **Windows 11 (Tampilan Menu 2)** → Sistem operasi buatan Microsoft, digunakan untuk produktivitas dan penggunaan umum.
+- **Windows 11 (Tampilan Menu 1)** → Sistem operasi buatan Microsoft, digunakan untuk produktivitas dan penggunaan umum.
+- **Kali Linux (Tampilan Menu 2)** → Distribusi Linux berbasis Debian, digunakan untuk keamanan siber dan penetration testing.
 
 ## 2️⃣ Perbedaan Tampilan Antarmuka
 
