@@ -20,6 +20,56 @@ Navigasi di Windows 11 sangat user-friendly, dengan taskbar terpusat yang memuda
 Kali Linux menawarkan tampilan dengan tema gelap yang lebih teknis dan bernuansa cyberpunk, dilengkapi dengan logo naga khas distro ini. Fokus utama Kali Linux adalah keamanan siber dan hacking, dengan panel atas sebagai pusat navigasi dan pemantauan sistem. Kali Linux juga mengutamakan penggunaan command line interface (CLI), memberikan kontrol penuh atas alat dan sistem untuk melakukan tes penetrasi dan analisis keamanan.
 Desain ini lebih ditujukan untuk profesional yang terlibat dalam cybersecurity dan pentesting, seperti ethical hackers dan administrator sistem. Kali Linux lebih mengutamakan efisiensi dan fungsionalitas dalam pengelolaan sistem dan alat pengujian.
 
+# 📌 Perbedaan Kali Linux vs Windows 11 (Berdasarkan Tampilan Menu)
+
+![Screenshot 2025-02-06 095659](https://github.com/user-attachments/assets/1a5eb92e-91d1-4df7-8f4b-0952ab22c1e0) Tampilan Menu (Windows 11)
+![Screenshot 2025-02-06 100058](https://github.com/user-attachments/assets/041e7db8-9b67-4a4b-ad2e-d947c2b61cdb) Tampilan Menu (Kali Linux)
+
+
+
+
+## 1️⃣ Perbedaan Sistem Operasi
+- **Kali Linux (Tampilan Menu 1)** → Distribusi Linux berbasis Debian, digunakan untuk keamanan siber dan penetration testing.
+- **Windows 11 (Tampilan Menu 2)** → Sistem operasi buatan Microsoft, digunakan untuk produktivitas dan penggunaan umum.
+
+## 2️⃣ Perbedaan Tampilan Antarmuka
+
+| Aspek | Kali Linux | Windows 11 |
+
+| **Menu Utama** | Dropdown dengan kategori bertingkat. | Grid dengan ikon besar dan tampilan modern. |
+| **Tema Warna** | Dominan gelap (dark mode). | Warna transparan dengan nuansa modern. |
+| **Pencarian Aplikasi** | Kotak pencarian kecil di atas menu. | Kotak pencarian besar dan lebih terintegrasi. |
+| **Struktur Aplikasi** | Dikategorikan ke dalam kelompok teknis (*Information Gathering, Exploitation Tools, dll*). | Dikelompokkan dalam *Pinned* dan *Recommended*. |
+
+## 3️⃣ Perbedaan Jenis Aplikasi
+
+| Aspek | Kali Linux | Windows 11 |
+
+| **Aplikasi Utama** | Terminal Emulator, Exploit Database, VulnHub, Kali Docs. | Word, Excel, PowerPoint, Edge, YouTube. |
+| **Kategori Aplikasi** | Keamanan siber, penetration testing, forensik digital. | Produktivitas, hiburan, aplikasi kantoran. |
+| **Fokus Penggunaan** | Ethical hacking, eksploitasi keamanan, analisis malware. | Pekerjaan sehari-hari, multimedia, gaming. |
+
+## 4️⃣ Perbedaan Fungsi dan Penggunaan
+
+| Aspek | Kali Linux | Windows 11 |
+
+| **Target Pengguna** | Profesional keamanan siber, ethical hacker, peneliti keamanan. | Pengguna umum, pekerja kantoran, pelajar. |
+| **Tujuan Penggunaan** | Penetration testing, analisis forensik, eksploitasi keamanan. | Pengolahan dokumen, hiburan, pekerjaan kantor. |
+| **Kemudahan Penggunaan** | Lebih teknis, memerlukan keahlian khusus. | Mudah digunakan untuk semua orang. |
+
+## 5️⃣ Perbedaan Aksesibilitas dan Kustomisasi
+
+| Aspek | Kali Linux | Windows 11 |
+
+| **Navigasi** | Hierarki alat keamanan yang kompleks. | Mudah dengan ikon besar dan kategori jelas. |
+| **Dukungan Software** | Fokus pada open-source dan tool keamanan. | Mendukung banyak aplikasi dari Microsoft dan pihak ketiga. |
+| **Tingkat Kustomisasi** | Sangat tinggi (bisa diubah sesuai kebutuhan pengguna teknis). | Terbatas dibanding Linux, tetapi tetap dapat dikustomisasi. |
+
+## 🎯 Kesimpulan Utama
+1. Kali Linux lebih berorientasi pada **keamanan siber**, sementara Windows 11 lebih untuk **penggunaan sehari-hari**.
+2. Tampilan Kali Linux **lebih teknis**, sedangkan Windows 11 **lebih user-friendly**.
+3. Kali Linux memiliki aplikasi **penetration testing dan forensik**, sedangkan Windows 11 memiliki aplikasi **produktif dan multimedia**.
+4. Windows 11 **lebih mudah digunakan**, sementara Kali Linux **memerlukan pemahaman teknis lebih dalam**.
 
 # 📊 Analisis Perbandingan Monitoring Sistem: htop (Kali Linux) vs Task Manager (Windows 11)
 
@@ -54,8 +104,6 @@ htop(Kali Linux)
 - Kali Linux hanya menjalankan **86 proses**, sementara Windows menjalankan **250 proses**, yang menunjukkan bahwa Windows memiliki lebih banyak layanan latar belakang.  
 - Jumlah thread di Windows jauh lebih banyak (**4984 vs. 215 di Kali Linux**), yang menunjukkan bahwa Windows menangani lebih banyak proses multitasking secara bersamaan.  
 
----
-
 ## 🖥️ 2. **Penggunaan Memori (RAM)**
 ### 🔹 **Kali Linux (htop)**
 - **RAM digunakan:** 485MB dari 1.93GB (~25%)  
@@ -69,8 +117,6 @@ htop(Kali Linux)
 - Windows menggunakan **81% dari total RAM**, yang berarti banyak layanan latar belakang dan aplikasi yang berjalan.  
 - Kali Linux **tidak menggunakan swap**, menunjukkan bahwa sistem memiliki cukup RAM dan mengelola memorinya dengan baik tanpa harus bergantung pada penyimpanan disk.  
 
----
-
 ## 🔄 3. **Multithreading & Manajemen Proses**
 ### 🔹 **Kali Linux (htop)**
 - **Total thread:** 215  
@@ -83,8 +129,6 @@ htop(Kali Linux)
 ### 🔍 **Analisis & Perbandingan**
 - Windows memiliki **lebih banyak thread aktif** dibandingkan Kali Linux, yang menunjukkan bahwa Windows lebih multitasking. Namun, ini juga berarti penggunaan CPU yang lebih tinggi.  
 - Kali Linux memiliki jumlah thread yang lebih sedikit tetapi tetap bekerja secara **optimal dan efisien** dalam pemanfaatan sumber daya sistem.  
-
----
 
 ## 🖥️ 4. **Virtualisasi & Spesifikasi Hardware**
 ### 🔹 **Windows (Task Manager)**
