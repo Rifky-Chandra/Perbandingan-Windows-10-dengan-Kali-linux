@@ -1,4 +1,4 @@
-# Perbandingan-Windows-10-dengan-Kali-linux
+# Perbandingan-Windows-11-dengan-Kali-linux
 
 ## Apa Itu Windows dan Linux?
 ### 🖥️ Windows: Sistem Operasi Komersial yang User-Friendly  
