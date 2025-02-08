@@ -28,11 +28,11 @@ Desain ini lebih ditujukan untuk profesional yang terlibat dalam cybersecurity d
 
 ## 🐧 Kali Linux
 
-### 1️⃣ Sistem Operasi
+### 1️. Sistem Operasi
 - Kali Linux adalah distribusi berbasis **Debian** yang dirancang untuk **penetration testing, keamanan siber, dan forensik digital**.
 - Banyak digunakan oleh **ethical hacker, profesional keamanan, dan peneliti keamanan**.
 
-### 2️⃣ Tampilan Menu
+### 2️. Tampilan Menu
 - Memiliki **struktur hierarkis** dengan kategori teknis seperti:
   - **Information Gathering**
   - **Vulnerability Analysis**
@@ -41,20 +41,20 @@ Desain ini lebih ditujukan untuk profesional yang terlibat dalam cybersecurity d
 - **Tema dominan gelap (dark mode)** dengan tampilan minimalis.
 - Kotak **pencarian aplikasi** berada di bagian atas menu.
 
-### 3️⃣ Jenis Aplikasi
+### 3️. Jenis Aplikasi
 - Berisi aplikasi yang berfokus pada:
   - **Terminal Emulator** untuk eksekusi perintah Linux.
   - **Exploit Database & VulnHub** untuk latihan eksploitasi.
   - **Kali Docs & Kali Bugs** sebagai dokumentasi dan pelaporan bug.
 
-### 4️⃣ Fungsi dan Penggunaan
+### 4️. Fungsi dan Penggunaan
 - Digunakan untuk:
   - **Penetration testing** dan eksploitasi keamanan.
   - **Analisis malware dan forensik digital**.
   - **Keamanan jaringan dan eksploitasi aplikasi web**.
 - Memerlukan **keahlian teknis lebih dalam** untuk digunakan secara efektif.
 
-### 5️⃣ Aksesibilitas dan Kustomisasi
+### 5️. Aksesibilitas dan Kustomisasi
 - **Navigasi berbasis kategori**, mengelompokkan alat-alat keamanan.
 - **Open-source**, memungkinkan pengguna menyesuaikan sistem sesuai kebutuhan.
 - **Dukungan software terbatas** hanya untuk aplikasi keamanan dan tool open-source.
@@ -62,31 +62,31 @@ Desain ini lebih ditujukan untuk profesional yang terlibat dalam cybersecurity d
 
 ## 🖥 Windows 11
 
-### 1️⃣ Sistem Operasi
+### 1️. Sistem Operasi
 - Windows 11 adalah sistem operasi buatan **Microsoft** yang ditujukan untuk **penggunaan sehari-hari, produktivitas, dan hiburan**.
 - Digunakan oleh **pengguna umum, pelajar, pekerja kantoran, dan gamer**.
 
-### 2️⃣ Tampilan Menu
+### 2️. Tampilan Menu
 - Tampilan lebih **modern dan user-friendly**, dengan ikon besar.
 - **Dikelompokkan menjadi dua bagian utama**:
   - **Pinned Apps** → Aplikasi yang sering digunakan.
   - **Recommended Apps & Files** → Dokumen dan aplikasi yang baru diakses.
 - **Kotak pencarian lebih besar**, terintegrasi dengan sistem.
 
-### 3️⃣ Jenis Aplikasi
+### 3️. Jenis Aplikasi
 - Berisi aplikasi umum untuk pekerjaan dan hiburan seperti:
   - **Microsoft Word, Excel, PowerPoint** untuk produktivitas.
   - **YouTube, Edge, Opera GX** untuk hiburan dan browsing.
   - **Visual Studio Code** untuk pengembangan perangkat lunak.
 
-### 4️⃣ Fungsi dan Penggunaan
+### 4️. Fungsi dan Penggunaan
 - Digunakan untuk:
   - **Pekerjaan sehari-hari**, seperti pembuatan dokumen dan presentasi.
   - **Hiburan**, seperti menonton video dan bermain game.
   - **Produktivitas**, dengan berbagai aplikasi kantoran dan komunikasi.
 - **Mudah digunakan**, cocok untuk semua kalangan.
 
-### 5️⃣ Aksesibilitas dan Kustomisasi
+### 5️. Aksesibilitas dan Kustomisasi
 - **Navigasi lebih intuitif**, dengan ikon besar dan pencarian cepat.
 - **Dukungan software luas**, termasuk aplikasi Microsoft dan pihak ketiga.
 - **Tingkat kustomisasi terbatas**, hanya bisa mengubah tampilan tema dan beberapa fitur.
